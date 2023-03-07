@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [React Native Projects]()
+- 🔭 I’m currently working on [React Projects]()
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React**
 
 - ⚡ Fun fact **I think I am funny**
 
